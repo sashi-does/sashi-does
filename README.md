@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=sashi-does&style=for-the-badge&color=blueviolet)
 
-# Hi there, I'm Sashi! 👋
+# Hi there, I'm Sashi! 
+**"Built for greatness."** 
 
 Welcome to my GitHub profile! I’m a **full-stack & blockchain developer** passionate about building scalable web apps, experimenting with distributed systems, and exploring new technologies. 🚀  
 
@@ -80,9 +81,6 @@ Welcome to my GitHub profile! I’m a **full-stack & blockchain developer** pass
 
 </div>
 
-
-## ✍️ Dev Quote
-"First, solve the problem. Then, write the code."
 
 
 ## 🔝 Top Contributed Repos
