@@ -80,12 +80,3 @@ Welcome to my GitHub profile! I’m a **full-stack & blockchain developer** pass
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sashi-does&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
 </div>
-
-
-
-## 🔝 Top Contributed Repos
-<div align='center'>
-
-![Top Contributed](https://github-contributor-stats.vercel.app/api?username=sashi-does&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
