@@ -3,7 +3,7 @@
 # Hi there, I'm Sashi! 
 **"Built for greatness."** 
 
-Welcome to my GitHub profile! I’m a **full-stack & blockchain developer** passionate about building scalable web apps, experimenting with distributed systems, and exploring new technologies. 🚀  
+I’m a **full-stack & blockchain developer** passionate about building scalable web apps, experimenting with distributed systems, and exploring new technologies. 🚀  
 
 ---
 
